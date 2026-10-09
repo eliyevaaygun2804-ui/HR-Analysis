@@ -1,0 +1,41 @@
+# HR Analysis Dashboard | Power BI
+
+## 📊 Project Overview
+
+This project focuses on analyzing Human Resources (HR) data to gain insights into employee attrition, workforce demographics, and employee-related trends.
+
+The interactive Power BI dashboard helps identify patterns in employee turnover and supports data-driven HR decision-making.
+
+## 🎯 Project Objectives
+
+* Analyze employee attrition and turnover patterns.
+* Explore workforce demographics and employee characteristics.
+* Identify factors associated with employee departures.
+* Present key HR metrics through interactive visualizations.
+* Support better, data-driven HR decisions.
+
+## 🛠️ Tools & Technologies
+
+* **Power BI** – Data visualization and dashboard development
+* **Power Query** – Data cleaning and transformation
+* **DAX** – Calculated measures and KPI development
+
+## 📈 Key Insights
+
+* Employee attrition analysis
+* Workforce distribution by department
+* Employee demographics and job-related characteristics
+* Comparison of employees who stayed and those who left
+
+## 💡 Skills Demonstrated
+
+* Data cleaning and transformation
+* Data analysis and visualization
+* KPI development
+* Dashboard design
+* Business insight generation
+
+## 👩‍💻 Author
+
+**Aygun Alieva**
+Junior Data Analyst
